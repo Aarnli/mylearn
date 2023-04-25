@@ -52,7 +52,7 @@ public class ExcelUtil {
         }
         return stitchedImage;
     }
-
+//test
     public static void main(String[] args) throws IOException {
         // 创建一个包含 PDF 文件数据的 MultipartFile 对象
         MultipartFile pdfFile = new MockMultipartFile("5页的pdf.pdf", new FileInputStream(new File("E:\\test/5页的pdf.pdf")));
