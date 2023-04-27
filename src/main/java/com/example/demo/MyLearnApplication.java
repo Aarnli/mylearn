@@ -9,6 +9,8 @@ public class MyLearnApplication {
     public static void main(String[] args) {
         SpringApplication.run(MyLearnApplication.class, args);
         System.out.println("hello");
+
+        
     }
 
 }
